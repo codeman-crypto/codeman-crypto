@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeman-crypto
 - 👀 I’m interested in Cryptography and Blockchain
 - 🌱 I’m currently learning Rust
-- 💞️ I’m Currently a lead contributer for Beldex Project
+- 💞️ I’m Currently a lead contributer and maintainer for Beldex Project
 
 
 <!---
